@@ -64,7 +64,7 @@ Your guesses were:
 ```
 
 ---
-
+```
 ## Features
 
 * Random number generation
@@ -74,7 +74,7 @@ Your guesses were:
 * Simple and easy to play
 
 ---
-
+```
 ## Conclusion
 
 This project helps in understanding basic Java concepts such as loops, arrays, conditional statements, and user input.
@@ -83,4 +83,4 @@ It is a good beginner-friendly project for learning Java programming.
 ```
 ##Developed By
 Pruthviraj Gyanchand Gaikwad
-
+```
