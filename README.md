@@ -38,7 +38,7 @@ The game gives hints if the guessed number is too high or too low until the corr
    javac GuessNumberArray.java
 ````
 
-5. Run the program:
+**## Run the program:**
 
    ```bash
    java GuessNumberArray
@@ -46,7 +46,7 @@ The game gives hints if the guessed number is too high or too low until the corr
 
 ---
 
-## Sample Output
+**## Sample Output**
 
 ```
 Guess the Number Game
@@ -65,7 +65,7 @@ Your guesses were:
 
 ---
 ```
-## Features
+**## Features**
 
 * Random number generation
 * User-friendly messages
@@ -75,12 +75,12 @@ Your guesses were:
 
 ---
 ```
-## Conclusion
+**## Conclusion**
 
 This project helps in understanding basic Java concepts such as loops, arrays, conditional statements, and user input.
 It is a good beginner-friendly project for learning Java programming.
 
 ```
-##Developed By
+**## Developed By**
 Pruthviraj Gyanchand Gaikwad
 ```
