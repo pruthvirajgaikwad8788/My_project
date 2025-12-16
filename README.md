@@ -35,51 +35,42 @@ The player tries to guess the number, and the program gives hints if the guess i
    javac GuessNumberArray.java
 ````
 
-5. Run the program by running:
-
-   ```bash
-   java GuessNumberArray
-   ```
+## Run the Program  
+Run the program by running:  
+`java GuessNumberArray`
 
 ---
 
-## Sample Output
+## Sample Output  
+Guess the Number Game  
+Guess a number between 1 and 100  
+Enter your guess: 40  
+Too high! Try again.  
+Enter your guess: 20  
+Too low! Try again.  
+Enter your guess: 30  
+Congratulations!  
+You guessed the number in 3 attempts.  
 
-Guess the Number Game
-Guess a number between 1 and 100
-Enter your guess: 40
-Too high! Try again.
-Enter your guess: 20
-Too low! Try again.
-Enter your guess: 30
-Congratulations!
-You guessed the number in 3 attempts.
-
-Your guesses were:
-40 20 30
-
----
-
-## Features
-
-* Random number generation
-* User-friendly messages
-* Stores all guesses in an array
-* Shows number of attempts
-* Simple and easy to play
+Your guesses were:  
+40 20 30  
 
 ---
 
-## Conclusion
-
-This project is a good way to learn basic Java concepts like loops, arrays, conditional statements, and user input.
-It's perfect for beginners who want to practice programming in Java.
+## Features  
+- Random number generation  
+- User-friendly messages  
+- Stores all guesses in an array  
+- Shows number of attempts  
+- Simple and easy to play  
 
 ---
 
-## Developed By
+## Conclusion  
+This project is a good way to learn basic Java concepts like loops, arrays, conditional statements, and user input.  
+It's perfect for beginners who want to practice programming in Java.  
 
+---
+
+## Developed By  
 Pruthviraj Gyanchand Gaikwad
-
-```
-
