@@ -33,7 +33,7 @@ The player tries to guess the number, and the program gives hints if the guess i
 4. Compile the program by running:  
    ```bash
    javac GuessNumberArray.java
-````
+
 
 ## Run the Program  
 Run the program by running:  
